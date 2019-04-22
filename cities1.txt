@@ -1,0 +1,10 @@
+14*Guangzhou*China*7.9
+20*Shanghai*China*6.5
+25*Beijing*China*5
+41*Hangzhou*China*3.4
+54*Zhuhai*China*2.7
+63*Suzhou*China*2.5
+80*Guilin*China*2
+100*Ramallah*Palestine*10.5
+99*Qalqilyeh*Palestine*11.7
+77*Moscow*Russia*3.2

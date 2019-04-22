@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1526923577 source:c:\users\waleed swaileh.waleed-pc\desktop\c programming\project 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"avl.h"
+	"hash.h"
+
+1526917227 c:\users\waleed swaileh.waleed-pc\desktop\c programming\project 3\avl.h
+
+1526848909 c:\users\waleed swaileh.waleed-pc\desktop\c programming\project 3\linkedlist.h
+
+1526923899 c:\users\waleed swaileh.waleed-pc\desktop\c programming\project 3\hash.h
+
+1526888024 source:c:\users\waleed swaileh.waleed-pc\desktop\programming\data structures projects\project 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"avl.h"
+	"hash.h"
+
+1526888024 c:\users\waleed swaileh.waleed-pc\desktop\programming\data structures projects\project 3\linkedlist.h
+
+1526888022 c:\users\waleed swaileh.waleed-pc\desktop\programming\data structures projects\project 3\avl.h
+
+1526888024 c:\users\waleed swaileh.waleed-pc\desktop\programming\data structures projects\project 3\hash.h
+
